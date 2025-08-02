@@ -2,14 +2,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=shayangolmezerji&style=for-the-badge&color=00F770" alt="Profile Views"/>
 
-  <br/><br/>
-
-  <a href="https://github.com/shayangolmezerji">
-      <img src="https://raw.githubusercontent.com/shayangolmezerji/shayangolmezerji/main/profile.jpg" alt="Shayan Golmezerji" width="170" height="170" style="border-radius: 50%;">
-  </a>
-
-  <br/>
-
   <h1>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F770&center=true&vCenter=true&width=435&lines=Shayan%20Golmezerji;Software%20Engineer%20%7C%202%20YoE;Web%20Dev%20%7C%20AI%20%26%20Blockchain%20Specialist;Building%20Secure%20%26%20Creative%20Solutions" alt="Typing SVG" />
