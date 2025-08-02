@@ -129,19 +129,20 @@ Wielding the `languages`, `frameworks`, and `technologies` that define the futur
 
 <hr style="height:2px;border-width:0;color:#00F770;background:linear-gradient(90deg, rgba(0,0,0,0) 0%, #00F770 50%, rgba(0,0,0,0) 100%); margin-top: 30px; margin-bottom: 30px;">
 
-
 <div align="center">
 
 ## 📊 GitHub Stats & Activity
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shayangolmezerji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&title_color=00F770&icon_color=00F770" alt="shayangolmezerji GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayangolmezerji&layout=compact&theme=tokyonight&langs_count=8&hide_border=false&title_color=00F770&text_color=ffffff" alt="shayangolmezerji Top Languages" width="48%"/>
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shayangolmezerji&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&background=1A1B27&stroke=00F770&ring=00F770&fire=FF9E64&currStreakLabel=00F770" alt="shayangolmezerji GitHub Streak Stats"/>
-
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shayangolmezerji&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&title_color=00F770&icon_color=00F770&text_color=ffffff&bg_color=1A1B27"
+       alt="Shayan Golmezerji's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayangolmezerji&layout=compact&theme=tokyonight&langs_count=8&hide_border=false&title_color=00F770&text_color=ffffff&bg_color=1A1B27"
+       alt="Shayan Golmezerji's Top Languages" />
 </div>
+
+<br/>
 
 <hr style="height:2px;border-width:0;color:#00F770;background:linear-gradient(90deg, rgba(0,0,0,0) 0%, #00F770 50%, rgba(0,0,0,0) 100%); margin-top: 30px; margin-bottom: 30px;">
 
