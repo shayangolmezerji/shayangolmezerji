@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <p><strong>A dedicated software engineer</strong> with 2 years of hands-on experience in <strong>web development, AI, and blockchain</strong>.</p>
+  <p><strong>A dedicated software engineer</strong> with years of hands-on experience in <strong>web development, AI, and blockchain</strong>.</p>
   <p>I specialize in building <strong>secure, scalable, and creative solutions</strong> using <strong>Python</strong> and <strong>Rust</strong>.</p>
   <p>Driven by a passion for innovation and continuous learning.</p>
 </div>
