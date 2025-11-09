@@ -86,6 +86,8 @@
 > **I upload new tools, scripts, and snippets almost every day** — from AI helpers to blockchain utils and Linux one-liners.  
 > Check them out: [gist.github.com/ShayanGolmezerji](https://gist.github.com/ShayanGolmezerji)
 
+> (BTW I have a few projects on [@MasterShayan](https://github.com/MasterShayan) from the past, so if you want you can check them out too.
+
 ---
 
 ## 📊 GitHub Stats
