@@ -25,22 +25,18 @@
 <br>
 
 <div align="center">
-
   <!-- Telegram -->
   <a href="https://t.me/SHAYANGOLMEZERJI" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-
   <!-- Email -->
   <a href="mailto:shayangolmezerji@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
   <!-- GitHub -->
   <a href="https://github.com/shayangolmezerji" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
 </div>
 
 ---
@@ -72,6 +68,23 @@
   <img src="https://img.shields.io/badge/Warp%20(Cairo)-FF6B35?style=for-the-badge&logo=cairo&logoColor=white" alt="Warp Cairo" />
   <img src="https://img.shields.io/badge/Web3/dApps-EB4C4C?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 dApps" />
 </div>
+
+---
+
+## 🚀 Daily Tools & Snippets on **Gist**
+
+<div align="center">
+  <a href="https://gist.github.com/ShayanGolmezerji" target="_blank">
+    <img src="https://img.shields.io/badge/🛠️%20Daily%20Tools%20on%20Gist-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Gist Tools" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=shayangolmezerji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F770&text_color=FFFFFF&hide=comments" alt="Gist Stats" height="100" />
+</div>
+
+> **I upload new tools, scripts, and snippets almost every day** — from AI helpers to blockchain utils and Linux one-liners.  
+> Check them out: [gist.github.com/ShayanGolmezerji](https://gist.github.com/ShayanGolmezerji)
 
 ---
 
