@@ -80,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=e6364d1e82bacd3c102023cfe81bfc2d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F770&text_color=FFFFFF&hide=comments" alt="Gist Stats" height="100" />
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=ShayanGolmezerji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F770&text_color=FFFFFF&hide=comments" alt="Gist Stats" height="100" />
 </div>
 
 > **I upload new tools, scripts, and snippets almost every day** — from AI helpers to blockchain utils and Linux one-liners.  
