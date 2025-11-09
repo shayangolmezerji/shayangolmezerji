@@ -1,92 +1,110 @@
+# Hi there, I'm Shayan Golmezerji 👋
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shayangolmezerji&style=flat&color=00F770" alt="Profile Views"/>
-  <h1>Shayan Golmezerji</h1>
-  <p>Software Engineer | AI & Blockchain Specialist</p>
-  <p>📍 Istanbul, Türkiye</p>
+  <a href="https://github.com/shayangolmezerji">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=00F770&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Blockchain+Specialist;Linux+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-  <br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shayangolmezerji&style=for-the-badge&color=00F770" alt="Profile Views"/>
+</div>
 
+<br>
+
+<div align="center">
+  <p><strong>A dedicated software engineer</strong> with 2 years of hands-on experience in <strong>web development, AI, and blockchain</strong>.</p>
+  <p>I specialize in building <strong>secure, scalable, and creative solutions</strong> using <strong>Python</strong> and <strong>Rust</strong>.</p>
+  <p>Driven by a passion for innovation and continuous learning.</p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Istanbul,%20Türkiye-0A66C2?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
+</div>
+
+<br>
+
+<div align="center">
+
+  <!-- Telegram -->
   <a href="https://t.me/SHAYANGOLMEZERJI" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:shayangolmezerji@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email">
+
+  <!-- Email -->
+  <a href="mailto:shayangolmezerji@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/shayangolmezerji" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
----
-
-### About Me
-
-A dedicated software engineer with 2 years of hands-on experience in **web development, AI, and blockchain**. I specialize in building secure and creative solutions for complex challenges using **Python** and **Rust**. My passion for continuous learning and innovation drives me to deliver practical and creative results in every project.
-
----
-
-### My Skills
-
-<div align="center">
-  
-  <p><b>Languages:</b></p>
-  <p>
-    <code>Python</code> · <code>Rust</code> · <code>Julia</code> · <code>Vyper</code> · <code>Bash</code>
-  </p>
-
-  <br>
-
-  <p><b>Frameworks & Libraries:</b></p>
-  <p>
-    <code>FastAPI</code> · <code>Flask</code> · <code>Django</code> · <code>TensorFlow</code> · <code>PyTorch</code> · <code>Flux.jl</code> · <code>DataFrames.jl</code> · <code>OpenCV</code>
-  </p>
-
-  <br>
-
-  <p><b>Tools & Technologies:</b></p>
-  <p>
-    <code>Git</code> · <code>Docker</code> · <code>Kubernetes (K8s)</code> · <code>Redis</code> · <code>Postman</code> · <code>Linux</code> · <code>DevOps</code> · <code>OpSec</code>
-  </p>
-
-  <br>
-
-  <p><b>Databases:</b></p>
-  <p>
-    <code>MySQL</code> · <code>SQLite</code> · <code>MongoDB</code> · <code>PostgreSQL</code>
-  </p>
-
-  <br>
-
-  <p><b>Blockchain:</b></p>
-  <p>
-    <code>Warp (Cairo)</code> · <code>Web3 / dApps</code>
-  </p>
 
 </div>
 
 ---
 
-### GitHub Stats
+## 🛠️ Tech Stack
 
+### Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayangolmezerji&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayangolmezerji&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,rust,julia,vue,bash&perline=6" />
+</div>
+
+### Frameworks & Libraries
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,tensorflow,pytorch,opencv&perline=6" />
+</div>
+
+### Tools & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,redis,postman,linux&perline=6" />
+</div>
+
+### Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&perline=4" />
+</div>
+
+### Blockchain
+<div align="center">
+  <img src="https://img.shields.io/badge/Warp%20(Cairo)-FF6B35?style=for-the-badge&logo=cairo&logoColor=white" alt="Warp Cairo" />
+  <img src="https://img.shields.io/badge/Web3/dApps-EB4C4C?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 dApps" />
 </div>
 
 ---
 
-### Soft Skills & Languages
+## 📊 GitHub Stats
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/English-Advanced-blue" alt="English"/>
-    <img src="https://img.shields.io/badge/Turkish-Intermediate-orange" alt="Turkish"/>
-    <img src="https://img.shields.io/badge/Persian-Native-green" alt="Persian"/>
-  </p>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayangolmezerji&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F770&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayangolmezerji&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F770&ring=00F770&fire=FF6B35&currStreakLabel=00F770" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🗣️ Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge" alt="English" />
+  <img src="https://img.shields.io/badge/Turkish-B1-orange?style=for-the-badge" alt="Turkish" />
+  <img src="https://img.shields.io/badge/Persian-Native-green?style=for-the-badge" alt="Persian" />
 </div>
 
 ---
 
 <p align="center">
-  💡 Open to collaboration, challenges, and ideas that push the envelope.
+  <strong>💡 Open to collaboration, challenges, and ideas that push the envelope.</strong>
 </p>
+
+<div align="center">
+  <a href="https://github.com/shayangolmezerji">
+    <img src="https://img.shields.io/badge/⭐%20Star%20Me%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Star Me" />
+  </a>
+</div>
