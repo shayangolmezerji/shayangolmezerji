@@ -1,0 +1,45 @@
+name: contribution grid snake
+
+# The contribution calendar is read over GraphQL by the action below, using the
+# token this workflow is handed automatically. No personal token is involved and
+# nothing is rendered on someone else's server.
+
+on:
+  schedule:
+    # The grid changes at most once a day. Minutes are offset from the hour
+    # because runners are busiest on the hour.
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# snake.yml and trophy.yml both commit to the `output` branch. The publisher
+# pushes without --force, so two runs at the same time would lose one of them.
+concurrency:
+  group: publish-output-branch
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Render light and dark grids
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+          # Without history the run would rewrite the branch from scratch and
+          # drop the trophy card that shares it.
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
