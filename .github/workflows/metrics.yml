@@ -6,8 +6,10 @@ name: metrics
 
 on:
   schedule:
-    # Metrics pages through every repository and is the slowest of the three
-    # renders, so it runs after the snake and before the weekly trophy card.
+    # Metrics pages through every repository on the account, so of the two
+    # renders this is the slow one. Its minutes are offset from the snake's and
+    # from the hour, which is when runners are busiest and a scheduled event is
+    # most likely to be delayed.
     - cron: "43 5 * * *"
   workflow_dispatch:
 

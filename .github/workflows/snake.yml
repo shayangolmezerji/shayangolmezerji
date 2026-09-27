@@ -14,8 +14,10 @@ on:
 permissions:
   contents: write
 
-# snake.yml and trophy.yml both commit to the `output` branch. The publisher
-# pushes without --force, so two runs at the same time would lose one of them.
+# A dispatch that overlaps the next schedule would have two runs of this file
+# pushing the same branch. The publisher does not force, so the later one lands on
+# a ref it did not fetch. Queuing is enough here; nothing on this branch is worth
+# cancelling a finished render for.
 concurrency:
   group: publish-output-branch
   cancel-in-progress: false
@@ -38,8 +40,10 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          # Without history the run would rewrite the branch from scratch and
-          # drop the trophy card that shares it.
+          # The action's own input table says keep_history creates an incremental
+          # commit instead of a force push. Only these two files live on `output`,
+          # so what that buys is a log of past renders rather than other files
+          # being preserved: a force push would rewrite the branch each day.
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ github.token }}
