@@ -242,14 +242,25 @@ wording and it stays in the record because it bounds what the calendar means.
 
 ## What this checkout can and cannot prove
 
-The tracked tree here is `README.md`, `WIDGETS.md`, `index.html`, `profile.jpg`
-and two files under `.github/workflows/`. `main` and `origin/main` both sit at
-`24ac369`. So the commit that carried the workflows, the commit the trophy was
-tried on and the text of both workflow files are checkable from disk. Not one
-output is: there is no `output` ref, no `github-metrics.svg` in the working
-tree, and no `resume.pdf`. Anything about those paths has to go through
-`gh run view`, `gh api` or `curl`, which is why every such claim above carries
-its own command rather than a file name.
+```bash
+git ls-files
+git log -1 --format='%H %s'
+```
+
+Five of those paths are the sources: `README.md`, `WIDGETS.md`, `index.html`,
+`profile.jpg` and the two workflow files. What the checkout is not is a record of
+the renders. The snake pair lives on `output`, a branch nothing here fetches, so
+both of them only exist on GitHub and both claims about them go through `gh run
+view`, `gh api` or `curl`. That is why every such claim in this file carries its
+own command instead of a file name.
+
+`github-metrics.svg` is the exception and it arrived the hard way. The metrics
+action commits the render to `main` through the API, so the file became part of
+this repository's history without anyone here asking for it: `git log -1
+--format='%H %s' -- github-metrics.svg` names a commit whose author is the
+Actions bot and whose subject is the action's own default message. A checkout
+that fetches `main` therefore has one of the three published images on disk, and
+that one can be diffed, sized and grepped offline. The other two cannot.
 
 ## Schedule behaviour
 
